@@ -11,13 +11,13 @@ this is a jupiter notebook that uses scikit-learn RandomForestRegressor to predi
 
 # Figures (charts)
 
-linechart
+## linechart
 ![linechart](figure/1.png)
 
-heatmap
+## heatmap
 ![heatmap](figure/3.png)
 
-Scatterplot
+## Scatterplot
 ![scatterplot](figure/4.png)
 
 # How to use it ?
