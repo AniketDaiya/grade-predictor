@@ -35,6 +35,6 @@ Scatterplot
 if any bugs found then make a pull request after fixing it for review and applying the changes
 
 # Liked It ?
-if you liked the concept and probably you will like me 😉:
+if you liked the concept then probably you will like me 😉:
 1. gmail = aniketdaiya0910@gmail.com
 2. Linkedin = https://www.linkedin.com/in/aniket-daiya-1473b93a3/
