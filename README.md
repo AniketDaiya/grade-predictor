@@ -21,20 +21,20 @@ Scatterplot
 ![scatterplot](figure/4.png)
 
 # How to use it ?
-1.download the github repo as zip file / clone the git repo locally
-2.run all teh cells in the jupiter notebook 
-3.after running replace the sample prediction (new data on which prediction is done) data with actual data in the last cell
-4.run the last cell after replacing the data with actual data
+1. download the github repo as zip file / clone the git repo locally
+2. run all teh cells in the jupiter notebook 
+3. after running replace the sample prediction (new data on which prediction is done) data with actual data in the last cell
+4. run the last cell after replacing the data with actual data
 
 # Future Scope
-1.use of real datasets to train the model further 
-2.using some more efficient ml model than Random Forest
-3.deploying this project as a dashboard using streamlit to give it a ui
+1. use of real datasets to train the model further 
+2. using some more efficient ml model than Random Forest
+3. deploying this project as a dashboard using streamlit to give it a ui
 
 # Found Any Bugs ?
 if any bugs found then make a pull request after fixing it for review and applying the changes
 
 # Liked It ?
 if you liked the concept and probably you will like me 😉:
-1.gmail = aniketdaiya0910@gmail.com
-2.Linkedin = in/aniket-daiya-1473b93a3
+1. gmail = aniketdaiya0910@gmail.com
+2. Linkedin = in/aniket-daiya-1473b93a3
